@@ -1,0 +1,876 @@
+   Building fragment-census @ file:///home/temal/projects/enum-funcs
+      Built fragment-census @ file:///home/temal/projects/enum-funcs
+Uninstalled 1 package in 0.25ms
+Installed 1 package in 4ms
+  1,000,000 molecules, 10 elements
+  2,000,000 molecules, 10 elements
+  3,000,000 molecules, 10 elements
+  4,000,000 molecules, 10 elements
+  5,000,000 molecules, 10 elements
+  6,000,000 molecules, 10 elements
+  7,000,000 molecules, 10 elements
+  8,000,000 molecules, 10 elements
+  9,000,000 molecules, 10 elements
+ 10,000,000 molecules, 10 elements
+ 11,000,000 molecules, 10 elements
+ 12,000,000 molecules, 10 elements
+ 13,000,000 molecules, 10 elements
+ 14,000,000 molecules, 10 elements
+ 15,000,000 molecules, 10 elements
+ 16,000,000 molecules, 10 elements
+ 17,000,000 molecules, 10 elements
+ 18,000,000 molecules, 10 elements
+ 19,000,000 molecules, 10 elements
+ 20,000,000 molecules, 10 elements
+ 21,000,000 molecules, 10 elements
+ 22,000,000 molecules, 10 elements
+ 23,000,000 molecules, 10 elements
+ 24,000,000 molecules, 10 elements
+ 25,000,000 molecules, 10 elements
+ 26,000,000 molecules, 10 elements
+ 27,000,000 molecules, 10 elements
+ 28,000,000 molecules, 10 elements
+ 29,000,000 molecules, 10 elements
+ 30,000,000 molecules, 10 elements
+ 31,000,000 molecules, 10 elements
+ 32,000,000 molecules, 10 elements
+ 33,000,000 molecules, 10 elements
+ 34,000,000 molecules, 10 elements
+ 35,000,000 molecules, 10 elements
+ 36,000,000 molecules, 10 elements
+ 37,000,000 molecules, 10 elements
+ 38,000,000 molecules, 10 elements
+ 39,000,000 molecules, 10 elements
+ 40,000,000 molecules, 10 elements
+ 41,000,000 molecules, 10 elements
+ 42,000,000 molecules, 10 elements
+ 43,000,000 molecules, 10 elements
+ 44,000,000 molecules, 10 elements
+ 45,000,000 molecules, 10 elements
+ 46,000,000 molecules, 10 elements
+ 47,000,000 molecules, 10 elements
+ 48,000,000 molecules, 10 elements
+ 49,000,000 molecules, 10 elements
+ 50,000,000 molecules, 10 elements
+ 51,000,000 molecules, 10 elements
+ 52,000,000 molecules, 10 elements
+ 53,000,000 molecules, 10 elements
+ 54,000,000 molecules, 10 elements
+ 55,000,000 molecules, 10 elements
+ 56,000,000 molecules, 10 elements
+ 57,000,000 molecules, 10 elements
+ 58,000,000 molecules, 10 elements
+ 59,000,000 molecules, 10 elements
+ 60,000,000 molecules, 10 elements
+ 61,000,000 molecules, 10 elements
+ 62,000,000 molecules, 10 elements
+ 63,000,000 molecules, 10 elements
+ 64,000,000 molecules, 10 elements
+ 65,000,000 molecules, 10 elements
+ 66,000,000 molecules, 10 elements
+ 67,000,000 molecules, 10 elements
+ 68,000,000 molecules, 10 elements
+ 69,000,000 molecules, 10 elements
+ 70,000,000 molecules, 10 elements
+ 71,000,000 molecules, 10 elements
+ 72,000,000 molecules, 10 elements
+ 73,000,000 molecules, 10 elements
+ 74,000,000 molecules, 10 elements
+ 75,000,000 molecules, 10 elements
+ 76,000,000 molecules, 10 elements
+ 77,000,000 molecules, 10 elements
+ 78,000,000 molecules, 10 elements
+ 79,000,000 molecules, 10 elements
+ 80,000,000 molecules, 10 elements
+ 81,000,000 molecules, 10 elements
+ 82,000,000 molecules, 10 elements
+ 83,000,000 molecules, 10 elements
+ 84,000,000 molecules, 10 elements
+ 85,000,000 molecules, 10 elements
+ 86,000,000 molecules, 10 elements
+ 87,000,000 molecules, 10 elements
+ 88,000,000 molecules, 10 elements
+ 89,000,000 molecules, 10 elements
+ 90,000,000 molecules, 10 elements
+ 91,000,000 molecules, 10 elements
+ 92,000,000 molecules, 10 elements
+ 93,000,000 molecules, 10 elements
+ 94,000,000 molecules, 10 elements
+ 95,000,000 molecules, 10 elements
+ 96,000,000 molecules, 10 elements
+ 97,000,000 molecules, 10 elements
+ 98,000,000 molecules, 10 elements
+ 99,000,000 molecules, 10 elements
+100,000,000 molecules, 10 elements
+101,000,000 molecules, 10 elements
+102,000,000 molecules, 10 elements
+103,000,000 molecules, 10 elements
+104,000,000 molecules, 10 elements
+105,000,000 molecules, 10 elements
+106,000,000 molecules, 10 elements
+107,000,000 molecules, 10 elements
+108,000,000 molecules, 10 elements
+109,000,000 molecules, 10 elements
+110,000,000 molecules, 10 elements
+111,000,000 molecules, 10 elements
+112,000,000 molecules, 10 elements
+113,000,000 molecules, 10 elements
+114,000,000 molecules, 10 elements
+115,000,000 molecules, 10 elements
+116,000,000 molecules, 10 elements
+117,000,000 molecules, 10 elements
+118,000,000 molecules, 10 elements
+119,000,000 molecules, 10 elements
+120,000,000 molecules, 10 elements
+121,000,000 molecules, 10 elements
+122,000,000 molecules, 10 elements
+123,000,000 molecules, 10 elements
+124,000,000 molecules, 10 elements
+125,000,000 molecules, 10 elements
+126,000,000 molecules, 10 elements
+127,000,000 molecules, 10 elements
+128,000,000 molecules, 10 elements
+129,000,000 molecules, 10 elements
+130,000,000 molecules, 10 elements
+131,000,000 molecules, 10 elements
+132,000,000 molecules, 10 elements
+133,000,000 molecules, 10 elements
+134,000,000 molecules, 10 elements
+135,000,000 molecules, 10 elements
+136,000,000 molecules, 10 elements
+137,000,000 molecules, 10 elements
+138,000,000 molecules, 10 elements
+139,000,000 molecules, 10 elements
+140,000,000 molecules, 10 elements
+141,000,000 molecules, 10 elements
+142,000,000 molecules, 10 elements
+143,000,000 molecules, 10 elements
+144,000,000 molecules, 10 elements
+145,000,000 molecules, 10 elements
+146,000,000 molecules, 10 elements
+147,000,000 molecules, 10 elements
+148,000,000 molecules, 10 elements
+149,000,000 molecules, 10 elements
+150,000,000 molecules, 10 elements
+151,000,000 molecules, 10 elements
+152,000,000 molecules, 10 elements
+153,000,000 molecules, 10 elements
+154,000,000 molecules, 10 elements
+155,000,000 molecules, 10 elements
+156,000,000 molecules, 10 elements
+157,000,000 molecules, 10 elements
+158,000,000 molecules, 10 elements
+159,000,000 molecules, 10 elements
+160,000,000 molecules, 10 elements
+161,000,000 molecules, 10 elements
+162,000,000 molecules, 10 elements
+163,000,000 molecules, 10 elements
+164,000,000 molecules, 10 elements
+165,000,000 molecules, 10 elements
+166,000,000 molecules, 10 elements
+167,000,000 molecules, 10 elements
+168,000,000 molecules, 10 elements
+169,000,000 molecules, 10 elements
+170,000,000 molecules, 10 elements
+171,000,000 molecules, 10 elements
+172,000,000 molecules, 10 elements
+173,000,000 molecules, 10 elements
+174,000,000 molecules, 10 elements
+175,000,000 molecules, 10 elements
+176,000,000 molecules, 10 elements
+177,000,000 molecules, 10 elements
+178,000,000 molecules, 10 elements
+179,000,000 molecules, 10 elements
+180,000,000 molecules, 10 elements
+181,000,000 molecules, 10 elements
+182,000,000 molecules, 10 elements
+183,000,000 molecules, 10 elements
+184,000,000 molecules, 10 elements
+185,000,000 molecules, 10 elements
+186,000,000 molecules, 10 elements
+187,000,000 molecules, 10 elements
+188,000,000 molecules, 10 elements
+189,000,000 molecules, 10 elements
+190,000,000 molecules, 10 elements
+191,000,000 molecules, 10 elements
+192,000,000 molecules, 10 elements
+193,000,000 molecules, 10 elements
+194,000,000 molecules, 10 elements
+195,000,000 molecules, 10 elements
+196,000,000 molecules, 10 elements
+197,000,000 molecules, 10 elements
+198,000,000 molecules, 10 elements
+199,000,000 molecules, 10 elements
+200,000,000 molecules, 10 elements
+201,000,000 molecules, 10 elements
+202,000,000 molecules, 10 elements
+203,000,000 molecules, 10 elements
+204,000,000 molecules, 10 elements
+205,000,000 molecules, 10 elements
+206,000,000 molecules, 10 elements
+207,000,000 molecules, 10 elements
+208,000,000 molecules, 10 elements
+209,000,000 molecules, 10 elements
+210,000,000 molecules, 10 elements
+211,000,000 molecules, 10 elements
+212,000,000 molecules, 10 elements
+213,000,000 molecules, 10 elements
+214,000,000 molecules, 10 elements
+215,000,000 molecules, 10 elements
+216,000,000 molecules, 10 elements
+217,000,000 molecules, 10 elements
+218,000,000 molecules, 10 elements
+219,000,000 molecules, 10 elements
+220,000,000 molecules, 10 elements
+221,000,000 molecules, 10 elements
+222,000,000 molecules, 10 elements
+223,000,000 molecules, 10 elements
+224,000,000 molecules, 10 elements
+225,000,000 molecules, 10 elements
+226,000,000 molecules, 10 elements
+227,000,000 molecules, 10 elements
+228,000,000 molecules, 10 elements
+229,000,000 molecules, 10 elements
+230,000,000 molecules, 10 elements
+231,000,000 molecules, 10 elements
+232,000,000 molecules, 10 elements
+233,000,000 molecules, 10 elements
+234,000,000 molecules, 10 elements
+235,000,000 molecules, 10 elements
+236,000,000 molecules, 10 elements
+237,000,000 molecules, 10 elements
+238,000,000 molecules, 10 elements
+239,000,000 molecules, 10 elements
+240,000,000 molecules, 10 elements
+241,000,000 molecules, 10 elements
+242,000,000 molecules, 10 elements
+243,000,000 molecules, 10 elements
+244,000,000 molecules, 10 elements
+245,000,000 molecules, 10 elements
+246,000,000 molecules, 10 elements
+247,000,000 molecules, 10 elements
+248,000,000 molecules, 10 elements
+249,000,000 molecules, 10 elements
+250,000,000 molecules, 10 elements
+251,000,000 molecules, 10 elements
+252,000,000 molecules, 10 elements
+253,000,000 molecules, 10 elements
+254,000,000 molecules, 10 elements
+255,000,000 molecules, 10 elements
+256,000,000 molecules, 10 elements
+257,000,000 molecules, 10 elements
+258,000,000 molecules, 10 elements
+259,000,000 molecules, 10 elements
+260,000,000 molecules, 10 elements
+261,000,000 molecules, 10 elements
+262,000,000 molecules, 10 elements
+263,000,000 molecules, 10 elements
+264,000,000 molecules, 10 elements
+265,000,000 molecules, 10 elements
+266,000,000 molecules, 10 elements
+267,000,000 molecules, 10 elements
+268,000,000 molecules, 10 elements
+269,000,000 molecules, 10 elements
+270,000,000 molecules, 10 elements
+271,000,000 molecules, 10 elements
+272,000,000 molecules, 10 elements
+273,000,000 molecules, 10 elements
+274,000,000 molecules, 10 elements
+275,000,000 molecules, 10 elements
+276,000,000 molecules, 10 elements
+277,000,000 molecules, 10 elements
+278,000,000 molecules, 10 elements
+279,000,000 molecules, 10 elements
+280,000,000 molecules, 10 elements
+281,000,000 molecules, 10 elements
+282,000,000 molecules, 10 elements
+283,000,000 molecules, 10 elements
+284,000,000 molecules, 10 elements
+285,000,000 molecules, 10 elements
+286,000,000 molecules, 10 elements
+287,000,000 molecules, 10 elements
+288,000,000 molecules, 10 elements
+289,000,000 molecules, 10 elements
+290,000,000 molecules, 10 elements
+291,000,000 molecules, 10 elements
+292,000,000 molecules, 10 elements
+293,000,000 molecules, 10 elements
+294,000,000 molecules, 10 elements
+295,000,000 molecules, 10 elements
+296,000,000 molecules, 10 elements
+297,000,000 molecules, 10 elements
+298,000,000 molecules, 10 elements
+299,000,000 molecules, 10 elements
+300,000,000 molecules, 10 elements
+301,000,000 molecules, 10 elements
+302,000,000 molecules, 10 elements
+303,000,000 molecules, 10 elements
+304,000,000 molecules, 10 elements
+305,000,000 molecules, 10 elements
+306,000,000 molecules, 10 elements
+307,000,000 molecules, 10 elements
+308,000,000 molecules, 10 elements
+309,000,000 molecules, 10 elements
+310,000,000 molecules, 10 elements
+311,000,000 molecules, 10 elements
+312,000,000 molecules, 10 elements
+313,000,000 molecules, 10 elements
+314,000,000 molecules, 10 elements
+315,000,000 molecules, 10 elements
+316,000,000 molecules, 10 elements
+317,000,000 molecules, 10 elements
+318,000,000 molecules, 10 elements
+319,000,000 molecules, 10 elements
+320,000,000 molecules, 10 elements
+321,000,000 molecules, 10 elements
+322,000,000 molecules, 10 elements
+323,000,000 molecules, 10 elements
+324,000,000 molecules, 10 elements
+325,000,000 molecules, 10 elements
+326,000,000 molecules, 10 elements
+327,000,000 molecules, 10 elements
+328,000,000 molecules, 10 elements
+329,000,000 molecules, 10 elements
+330,000,000 molecules, 10 elements
+331,000,000 molecules, 10 elements
+332,000,000 molecules, 10 elements
+333,000,000 molecules, 10 elements
+334,000,000 molecules, 10 elements
+335,000,000 molecules, 10 elements
+336,000,000 molecules, 10 elements
+337,000,000 molecules, 10 elements
+338,000,000 molecules, 10 elements
+339,000,000 molecules, 10 elements
+340,000,000 molecules, 10 elements
+341,000,000 molecules, 10 elements
+342,000,000 molecules, 10 elements
+343,000,000 molecules, 10 elements
+344,000,000 molecules, 10 elements
+345,000,000 molecules, 10 elements
+346,000,000 molecules, 10 elements
+347,000,000 molecules, 10 elements
+348,000,000 molecules, 10 elements
+349,000,000 molecules, 10 elements
+350,000,000 molecules, 10 elements
+351,000,000 molecules, 10 elements
+352,000,000 molecules, 10 elements
+353,000,000 molecules, 10 elements
+354,000,000 molecules, 10 elements
+355,000,000 molecules, 10 elements
+356,000,000 molecules, 10 elements
+357,000,000 molecules, 10 elements
+358,000,000 molecules, 10 elements
+359,000,000 molecules, 10 elements
+360,000,000 molecules, 10 elements
+361,000,000 molecules, 10 elements
+362,000,000 molecules, 10 elements
+363,000,000 molecules, 10 elements
+364,000,000 molecules, 10 elements
+365,000,000 molecules, 10 elements
+366,000,000 molecules, 10 elements
+367,000,000 molecules, 10 elements
+368,000,000 molecules, 10 elements
+369,000,000 molecules, 10 elements
+370,000,000 molecules, 10 elements
+371,000,000 molecules, 10 elements
+372,000,000 molecules, 10 elements
+373,000,000 molecules, 10 elements
+374,000,000 molecules, 10 elements
+375,000,000 molecules, 10 elements
+376,000,000 molecules, 10 elements
+377,000,000 molecules, 10 elements
+378,000,000 molecules, 10 elements
+379,000,000 molecules, 10 elements
+380,000,000 molecules, 10 elements
+381,000,000 molecules, 10 elements
+382,000,000 molecules, 10 elements
+383,000,000 molecules, 10 elements
+384,000,000 molecules, 10 elements
+385,000,000 molecules, 10 elements
+386,000,000 molecules, 10 elements
+387,000,000 molecules, 10 elements
+388,000,000 molecules, 10 elements
+389,000,000 molecules, 10 elements
+390,000,000 molecules, 10 elements
+391,000,000 molecules, 10 elements
+392,000,000 molecules, 10 elements
+393,000,000 molecules, 10 elements
+394,000,000 molecules, 10 elements
+395,000,000 molecules, 10 elements
+396,000,000 molecules, 10 elements
+397,000,000 molecules, 10 elements
+398,000,000 molecules, 10 elements
+399,000,000 molecules, 10 elements
+400,000,000 molecules, 10 elements
+401,000,000 molecules, 10 elements
+402,000,000 molecules, 10 elements
+403,000,000 molecules, 10 elements
+404,000,000 molecules, 10 elements
+405,000,000 molecules, 10 elements
+406,000,000 molecules, 10 elements
+407,000,000 molecules, 10 elements
+408,000,000 molecules, 10 elements
+409,000,000 molecules, 10 elements
+410,000,000 molecules, 10 elements
+411,000,000 molecules, 10 elements
+412,000,000 molecules, 10 elements
+413,000,000 molecules, 10 elements
+414,000,000 molecules, 10 elements
+415,000,000 molecules, 10 elements
+416,000,000 molecules, 10 elements
+417,000,000 molecules, 10 elements
+418,000,000 molecules, 10 elements
+419,000,000 molecules, 10 elements
+420,000,000 molecules, 10 elements
+421,000,000 molecules, 10 elements
+422,000,000 molecules, 10 elements
+423,000,000 molecules, 10 elements
+424,000,000 molecules, 10 elements
+425,000,000 molecules, 10 elements
+426,000,000 molecules, 10 elements
+427,000,000 molecules, 10 elements
+428,000,000 molecules, 10 elements
+429,000,000 molecules, 10 elements
+430,000,000 molecules, 10 elements
+431,000,000 molecules, 10 elements
+432,000,000 molecules, 10 elements
+433,000,000 molecules, 10 elements
+434,000,000 molecules, 10 elements
+435,000,000 molecules, 10 elements
+436,000,000 molecules, 10 elements
+437,000,000 molecules, 10 elements
+438,000,000 molecules, 10 elements
+439,000,000 molecules, 10 elements
+440,000,000 molecules, 10 elements
+441,000,000 molecules, 10 elements
+442,000,000 molecules, 10 elements
+443,000,000 molecules, 10 elements
+444,000,000 molecules, 10 elements
+445,000,000 molecules, 10 elements
+446,000,000 molecules, 10 elements
+447,000,000 molecules, 10 elements
+448,000,000 molecules, 10 elements
+449,000,000 molecules, 10 elements
+450,000,000 molecules, 10 elements
+451,000,000 molecules, 10 elements
+452,000,000 molecules, 10 elements
+453,000,000 molecules, 10 elements
+454,000,000 molecules, 10 elements
+455,000,000 molecules, 10 elements
+456,000,000 molecules, 10 elements
+457,000,000 molecules, 10 elements
+458,000,000 molecules, 10 elements
+459,000,000 molecules, 10 elements
+460,000,000 molecules, 10 elements
+461,000,000 molecules, 10 elements
+462,000,000 molecules, 10 elements
+463,000,000 molecules, 10 elements
+464,000,000 molecules, 10 elements
+465,000,000 molecules, 10 elements
+466,000,000 molecules, 10 elements
+467,000,000 molecules, 10 elements
+468,000,000 molecules, 10 elements
+469,000,000 molecules, 10 elements
+470,000,000 molecules, 10 elements
+471,000,000 molecules, 10 elements
+472,000,000 molecules, 10 elements
+473,000,000 molecules, 10 elements
+474,000,000 molecules, 10 elements
+475,000,000 molecules, 10 elements
+476,000,000 molecules, 10 elements
+477,000,000 molecules, 10 elements
+478,000,000 molecules, 10 elements
+479,000,000 molecules, 10 elements
+480,000,000 molecules, 10 elements
+481,000,000 molecules, 10 elements
+482,000,000 molecules, 10 elements
+483,000,000 molecules, 10 elements
+484,000,000 molecules, 10 elements
+485,000,000 molecules, 10 elements
+486,000,000 molecules, 10 elements
+487,000,000 molecules, 10 elements
+488,000,000 molecules, 10 elements
+489,000,000 molecules, 10 elements
+490,000,000 molecules, 10 elements
+491,000,000 molecules, 10 elements
+492,000,000 molecules, 10 elements
+493,000,000 molecules, 10 elements
+494,000,000 molecules, 10 elements
+495,000,000 molecules, 10 elements
+496,000,000 molecules, 10 elements
+497,000,000 molecules, 10 elements
+498,000,000 molecules, 10 elements
+499,000,000 molecules, 10 elements
+500,000,000 molecules, 10 elements
+501,000,000 molecules, 10 elements
+502,000,000 molecules, 10 elements
+503,000,000 molecules, 10 elements
+504,000,000 molecules, 10 elements
+505,000,000 molecules, 10 elements
+506,000,000 molecules, 10 elements
+507,000,000 molecules, 10 elements
+508,000,000 molecules, 10 elements
+509,000,000 molecules, 10 elements
+510,000,000 molecules, 10 elements
+511,000,000 molecules, 10 elements
+512,000,000 molecules, 10 elements
+513,000,000 molecules, 10 elements
+514,000,000 molecules, 10 elements
+515,000,000 molecules, 10 elements
+516,000,000 molecules, 10 elements
+517,000,000 molecules, 10 elements
+518,000,000 molecules, 10 elements
+519,000,000 molecules, 10 elements
+520,000,000 molecules, 10 elements
+521,000,000 molecules, 10 elements
+522,000,000 molecules, 10 elements
+523,000,000 molecules, 10 elements
+524,000,000 molecules, 10 elements
+525,000,000 molecules, 10 elements
+526,000,000 molecules, 10 elements
+527,000,000 molecules, 10 elements
+528,000,000 molecules, 10 elements
+529,000,000 molecules, 10 elements
+530,000,000 molecules, 10 elements
+531,000,000 molecules, 10 elements
+532,000,000 molecules, 10 elements
+533,000,000 molecules, 10 elements
+534,000,000 molecules, 10 elements
+535,000,000 molecules, 10 elements
+536,000,000 molecules, 10 elements
+537,000,000 molecules, 10 elements
+538,000,000 molecules, 10 elements
+539,000,000 molecules, 10 elements
+540,000,000 molecules, 10 elements
+541,000,000 molecules, 10 elements
+542,000,000 molecules, 10 elements
+543,000,000 molecules, 10 elements
+544,000,000 molecules, 10 elements
+545,000,000 molecules, 10 elements
+546,000,000 molecules, 10 elements
+547,000,000 molecules, 10 elements
+548,000,000 molecules, 10 elements
+549,000,000 molecules, 10 elements
+550,000,000 molecules, 10 elements
+551,000,000 molecules, 10 elements
+552,000,000 molecules, 10 elements
+553,000,000 molecules, 10 elements
+554,000,000 molecules, 10 elements
+555,000,000 molecules, 10 elements
+556,000,000 molecules, 10 elements
+557,000,000 molecules, 10 elements
+558,000,000 molecules, 10 elements
+559,000,000 molecules, 10 elements
+560,000,000 molecules, 10 elements
+561,000,000 molecules, 10 elements
+562,000,000 molecules, 10 elements
+563,000,000 molecules, 10 elements
+564,000,000 molecules, 10 elements
+565,000,000 molecules, 10 elements
+566,000,000 molecules, 10 elements
+567,000,000 molecules, 10 elements
+568,000,000 molecules, 10 elements
+569,000,000 molecules, 10 elements
+570,000,000 molecules, 10 elements
+571,000,000 molecules, 10 elements
+572,000,000 molecules, 10 elements
+573,000,000 molecules, 10 elements
+574,000,000 molecules, 10 elements
+575,000,000 molecules, 10 elements
+576,000,000 molecules, 10 elements
+577,000,000 molecules, 10 elements
+578,000,000 molecules, 10 elements
+579,000,000 molecules, 10 elements
+580,000,000 molecules, 10 elements
+581,000,000 molecules, 10 elements
+582,000,000 molecules, 10 elements
+583,000,000 molecules, 10 elements
+584,000,000 molecules, 10 elements
+585,000,000 molecules, 10 elements
+586,000,000 molecules, 10 elements
+587,000,000 molecules, 10 elements
+588,000,000 molecules, 10 elements
+589,000,000 molecules, 10 elements
+590,000,000 molecules, 10 elements
+591,000,000 molecules, 10 elements
+592,000,000 molecules, 10 elements
+593,000,000 molecules, 10 elements
+594,000,000 molecules, 10 elements
+595,000,000 molecules, 10 elements
+596,000,000 molecules, 10 elements
+597,000,000 molecules, 10 elements
+598,000,000 molecules, 10 elements
+599,000,000 molecules, 10 elements
+600,000,000 molecules, 10 elements
+601,000,000 molecules, 10 elements
+602,000,000 molecules, 10 elements
+603,000,000 molecules, 10 elements
+604,000,000 molecules, 10 elements
+605,000,000 molecules, 10 elements
+606,000,000 molecules, 10 elements
+607,000,000 molecules, 10 elements
+608,000,000 molecules, 10 elements
+609,000,000 molecules, 10 elements
+610,000,000 molecules, 10 elements
+611,000,000 molecules, 10 elements
+612,000,000 molecules, 10 elements
+613,000,000 molecules, 10 elements
+614,000,000 molecules, 10 elements
+615,000,000 molecules, 10 elements
+616,000,000 molecules, 10 elements
+617,000,000 molecules, 10 elements
+618,000,000 molecules, 10 elements
+619,000,000 molecules, 10 elements
+620,000,000 molecules, 10 elements
+621,000,000 molecules, 10 elements
+622,000,000 molecules, 10 elements
+623,000,000 molecules, 10 elements
+624,000,000 molecules, 10 elements
+625,000,000 molecules, 10 elements
+626,000,000 molecules, 10 elements
+627,000,000 molecules, 10 elements
+628,000,000 molecules, 10 elements
+629,000,000 molecules, 10 elements
+630,000,000 molecules, 10 elements
+631,000,000 molecules, 10 elements
+632,000,000 molecules, 10 elements
+633,000,000 molecules, 10 elements
+634,000,000 molecules, 10 elements
+635,000,000 molecules, 10 elements
+636,000,000 molecules, 10 elements
+637,000,000 molecules, 10 elements
+638,000,000 molecules, 10 elements
+639,000,000 molecules, 10 elements
+640,000,000 molecules, 10 elements
+641,000,000 molecules, 10 elements
+642,000,000 molecules, 10 elements
+643,000,000 molecules, 10 elements
+644,000,000 molecules, 10 elements
+645,000,000 molecules, 10 elements
+646,000,000 molecules, 10 elements
+647,000,000 molecules, 10 elements
+648,000,000 molecules, 10 elements
+649,000,000 molecules, 10 elements
+650,000,000 molecules, 10 elements
+651,000,000 molecules, 10 elements
+652,000,000 molecules, 10 elements
+653,000,000 molecules, 10 elements
+654,000,000 molecules, 10 elements
+655,000,000 molecules, 10 elements
+656,000,000 molecules, 10 elements
+657,000,000 molecules, 10 elements
+658,000,000 molecules, 10 elements
+659,000,000 molecules, 10 elements
+660,000,000 molecules, 10 elements
+661,000,000 molecules, 10 elements
+662,000,000 molecules, 10 elements
+663,000,000 molecules, 10 elements
+664,000,000 molecules, 10 elements
+665,000,000 molecules, 10 elements
+666,000,000 molecules, 10 elements
+667,000,000 molecules, 10 elements
+668,000,000 molecules, 10 elements
+669,000,000 molecules, 10 elements
+670,000,000 molecules, 10 elements
+671,000,000 molecules, 10 elements
+672,000,000 molecules, 10 elements
+673,000,000 molecules, 10 elements
+674,000,000 molecules, 10 elements
+675,000,000 molecules, 10 elements
+676,000,000 molecules, 10 elements
+677,000,000 molecules, 10 elements
+678,000,000 molecules, 10 elements
+679,000,000 molecules, 10 elements
+680,000,000 molecules, 10 elements
+681,000,000 molecules, 10 elements
+682,000,000 molecules, 10 elements
+683,000,000 molecules, 10 elements
+684,000,000 molecules, 10 elements
+685,000,000 molecules, 10 elements
+686,000,000 molecules, 10 elements
+687,000,000 molecules, 10 elements
+688,000,000 molecules, 10 elements
+689,000,000 molecules, 10 elements
+690,000,000 molecules, 10 elements
+691,000,000 molecules, 10 elements
+692,000,000 molecules, 10 elements
+693,000,000 molecules, 10 elements
+694,000,000 molecules, 10 elements
+695,000,000 molecules, 10 elements
+696,000,000 molecules, 10 elements
+697,000,000 molecules, 10 elements
+698,000,000 molecules, 10 elements
+699,000,000 molecules, 10 elements
+700,000,000 molecules, 10 elements
+701,000,000 molecules, 10 elements
+702,000,000 molecules, 10 elements
+703,000,000 molecules, 10 elements
+704,000,000 molecules, 10 elements
+705,000,000 molecules, 10 elements
+706,000,000 molecules, 10 elements
+707,000,000 molecules, 10 elements
+708,000,000 molecules, 10 elements
+709,000,000 molecules, 10 elements
+710,000,000 molecules, 10 elements
+711,000,000 molecules, 10 elements
+712,000,000 molecules, 10 elements
+713,000,000 molecules, 10 elements
+714,000,000 molecules, 10 elements
+715,000,000 molecules, 10 elements
+716,000,000 molecules, 10 elements
+717,000,000 molecules, 10 elements
+718,000,000 molecules, 10 elements
+719,000,000 molecules, 10 elements
+720,000,000 molecules, 10 elements
+721,000,000 molecules, 10 elements
+722,000,000 molecules, 10 elements
+723,000,000 molecules, 10 elements
+724,000,000 molecules, 10 elements
+725,000,000 molecules, 10 elements
+726,000,000 molecules, 10 elements
+727,000,000 molecules, 10 elements
+728,000,000 molecules, 10 elements
+729,000,000 molecules, 10 elements
+730,000,000 molecules, 10 elements
+731,000,000 molecules, 10 elements
+732,000,000 molecules, 10 elements
+733,000,000 molecules, 10 elements
+734,000,000 molecules, 10 elements
+735,000,000 molecules, 10 elements
+736,000,000 molecules, 10 elements
+737,000,000 molecules, 10 elements
+738,000,000 molecules, 10 elements
+739,000,000 molecules, 10 elements
+740,000,000 molecules, 10 elements
+741,000,000 molecules, 10 elements
+742,000,000 molecules, 10 elements
+743,000,000 molecules, 10 elements
+744,000,000 molecules, 10 elements
+745,000,000 molecules, 10 elements
+746,000,000 molecules, 10 elements
+747,000,000 molecules, 10 elements
+748,000,000 molecules, 10 elements
+749,000,000 molecules, 10 elements
+750,000,000 molecules, 10 elements
+751,000,000 molecules, 10 elements
+752,000,000 molecules, 10 elements
+753,000,000 molecules, 10 elements
+754,000,000 molecules, 10 elements
+755,000,000 molecules, 10 elements
+756,000,000 molecules, 10 elements
+757,000,000 molecules, 10 elements
+758,000,000 molecules, 10 elements
+759,000,000 molecules, 10 elements
+760,000,000 molecules, 10 elements
+761,000,000 molecules, 10 elements
+762,000,000 molecules, 10 elements
+763,000,000 molecules, 10 elements
+764,000,000 molecules, 10 elements
+765,000,000 molecules, 10 elements
+766,000,000 molecules, 10 elements
+767,000,000 molecules, 10 elements
+768,000,000 molecules, 10 elements
+769,000,000 molecules, 10 elements
+770,000,000 molecules, 10 elements
+771,000,000 molecules, 10 elements
+772,000,000 molecules, 10 elements
+773,000,000 molecules, 10 elements
+774,000,000 molecules, 10 elements
+775,000,000 molecules, 10 elements
+776,000,000 molecules, 10 elements
+777,000,000 molecules, 10 elements
+778,000,000 molecules, 10 elements
+779,000,000 molecules, 10 elements
+780,000,000 molecules, 10 elements
+781,000,000 molecules, 10 elements
+782,000,000 molecules, 10 elements
+783,000,000 molecules, 10 elements
+784,000,000 molecules, 10 elements
+785,000,000 molecules, 10 elements
+786,000,000 molecules, 10 elements
+787,000,000 molecules, 10 elements
+788,000,000 molecules, 10 elements
+789,000,000 molecules, 10 elements
+790,000,000 molecules, 10 elements
+791,000,000 molecules, 10 elements
+792,000,000 molecules, 10 elements
+793,000,000 molecules, 10 elements
+794,000,000 molecules, 10 elements
+795,000,000 molecules, 10 elements
+796,000,000 molecules, 10 elements
+797,000,000 molecules, 10 elements
+798,000,000 molecules, 10 elements
+799,000,000 molecules, 10 elements
+800,000,000 molecules, 10 elements
+801,000,000 molecules, 10 elements
+802,000,000 molecules, 10 elements
+803,000,000 molecules, 10 elements
+804,000,000 molecules, 10 elements
+805,000,000 molecules, 10 elements
+806,000,000 molecules, 10 elements
+807,000,000 molecules, 10 elements
+808,000,000 molecules, 10 elements
+809,000,000 molecules, 10 elements
+810,000,000 molecules, 10 elements
+811,000,000 molecules, 10 elements
+812,000,000 molecules, 10 elements
+813,000,000 molecules, 10 elements
+814,000,000 molecules, 10 elements
+815,000,000 molecules, 10 elements
+816,000,000 molecules, 10 elements
+817,000,000 molecules, 10 elements
+818,000,000 molecules, 10 elements
+819,000,000 molecules, 10 elements
+820,000,000 molecules, 10 elements
+821,000,000 molecules, 10 elements
+822,000,000 molecules, 10 elements
+823,000,000 molecules, 10 elements
+824,000,000 molecules, 10 elements
+825,000,000 molecules, 10 elements
+826,000,000 molecules, 10 elements
+827,000,000 molecules, 10 elements
+828,000,000 molecules, 10 elements
+829,000,000 molecules, 10 elements
+830,000,000 molecules, 10 elements
+831,000,000 molecules, 10 elements
+832,000,000 molecules, 10 elements
+833,000,000 molecules, 10 elements
+834,000,000 molecules, 10 elements
+835,000,000 molecules, 10 elements
+836,000,000 molecules, 10 elements
+837,000,000 molecules, 10 elements
+838,000,000 molecules, 10 elements
+839,000,000 molecules, 10 elements
+840,000,000 molecules, 10 elements
+841,000,000 molecules, 10 elements
+842,000,000 molecules, 10 elements
+843,000,000 molecules, 10 elements
+844,000,000 molecules, 10 elements
+845,000,000 molecules, 10 elements
+846,000,000 molecules, 10 elements
+847,000,000 molecules, 10 elements
+848,000,000 molecules, 10 elements
+849,000,000 molecules, 10 elements
+850,000,000 molecules, 10 elements
+851,000,000 molecules, 10 elements
+852,000,000 molecules, 10 elements
+853,000,000 molecules, 10 elements
+854,000,000 molecules, 10 elements
+855,000,000 molecules, 10 elements
+856,000,000 molecules, 10 elements
+857,000,000 molecules, 10 elements
+858,000,000 molecules, 10 elements
+859,000,000 molecules, 10 elements
+860,000,000 molecules, 10 elements
+861,000,000 molecules, 10 elements
+862,000,000 molecules, 10 elements
+863,000,000 molecules, 10 elements
+864,000,000 molecules, 10 elements
+865,000,000 molecules, 10 elements
+866,000,000 molecules, 10 elements
+867,000,000 molecules, 10 elements
+868,000,000 molecules, 10 elements
+869,000,000 molecules, 10 elements
+870,000,000 molecules, 10 elements
+871,000,000 molecules, 10 elements
+872,000,000 molecules, 10 elements

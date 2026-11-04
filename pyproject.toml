@@ -1,0 +1,22 @@
+[project]
+name = "moltally"
+version = "0.1.0"
+description = "Enumerate and count elements, functional groups and ring systems in large SMILES files with RDKit"
+readme = "README.md"
+authors = [
+    { name = "Malte Grieswelle", email = "m.grieswelle@outlook.de" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "rdkit>=2026.9.1",
+]
+
+[project.scripts]
+enum-functional-groups = "moltally.functional_groups:main"
+enum-rings = "moltally.rings:main"
+enum-elements = "moltally.elements:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"

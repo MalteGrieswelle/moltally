@@ -1,0 +1,873 @@
+  1,000,000 molecules, 3427 ring systems
+  2,000,000 molecules, 3493 ring systems
+  3,000,000 molecules, 3522 ring systems
+  4,000,000 molecules, 3539 ring systems
+  5,000,000 molecules, 3553 ring systems
+  6,000,000 molecules, 3561 ring systems
+  7,000,000 molecules, 3570 ring systems
+  8,000,000 molecules, 3577 ring systems
+  9,000,000 molecules, 3584 ring systems
+ 10,000,000 molecules, 3592 ring systems
+ 11,000,000 molecules, 3595 ring systems
+ 12,000,000 molecules, 3602 ring systems
+ 13,000,000 molecules, 3609 ring systems
+ 14,000,000 molecules, 3610 ring systems
+ 15,000,000 molecules, 3617 ring systems
+ 16,000,000 molecules, 3620 ring systems
+ 17,000,000 molecules, 3622 ring systems
+ 18,000,000 molecules, 3627 ring systems
+ 19,000,000 molecules, 3857 ring systems
+ 20,000,000 molecules, 4503 ring systems
+ 21,000,000 molecules, 4779 ring systems
+ 22,000,000 molecules, 5036 ring systems
+ 23,000,000 molecules, 5038 ring systems
+ 24,000,000 molecules, 5040 ring systems
+ 25,000,000 molecules, 5042 ring systems
+ 26,000,000 molecules, 5043 ring systems
+ 27,000,000 molecules, 5043 ring systems
+ 28,000,000 molecules, 5046 ring systems
+ 29,000,000 molecules, 5047 ring systems
+ 30,000,000 molecules, 5049 ring systems
+ 31,000,000 molecules, 5066 ring systems
+ 32,000,000 molecules, 5068 ring systems
+ 33,000,000 molecules, 5069 ring systems
+ 34,000,000 molecules, 6010 ring systems
+ 35,000,000 molecules, 6044 ring systems
+ 36,000,000 molecules, 6251 ring systems
+ 37,000,000 molecules, 6261 ring systems
+ 38,000,000 molecules, 6270 ring systems
+ 39,000,000 molecules, 6278 ring systems
+ 40,000,000 molecules, 6298 ring systems
+ 41,000,000 molecules, 6304 ring systems
+ 42,000,000 molecules, 6316 ring systems
+ 43,000,000 molecules, 6322 ring systems
+ 44,000,000 molecules, 6333 ring systems
+ 45,000,000 molecules, 6342 ring systems
+ 46,000,000 molecules, 6754 ring systems
+ 47,000,000 molecules, 6881 ring systems
+ 48,000,000 molecules, 6884 ring systems
+ 49,000,000 molecules, 6887 ring systems
+ 50,000,000 molecules, 6892 ring systems
+ 51,000,000 molecules, 6896 ring systems
+ 52,000,000 molecules, 6897 ring systems
+ 53,000,000 molecules, 6898 ring systems
+ 54,000,000 molecules, 6900 ring systems
+ 55,000,000 molecules, 6902 ring systems
+ 56,000,000 molecules, 6966 ring systems
+ 57,000,000 molecules, 6966 ring systems
+ 58,000,000 molecules, 7078 ring systems
+ 59,000,000 molecules, 8033 ring systems
+ 60,000,000 molecules, 8051 ring systems
+ 61,000,000 molecules, 8217 ring systems
+ 62,000,000 molecules, 8651 ring systems
+ 63,000,000 molecules, 8654 ring systems
+ 64,000,000 molecules, 8655 ring systems
+ 65,000,000 molecules, 8655 ring systems
+ 66,000,000 molecules, 8655 ring systems
+ 67,000,000 molecules, 8657 ring systems
+ 68,000,000 molecules, 8657 ring systems
+ 69,000,000 molecules, 8658 ring systems
+ 70,000,000 molecules, 8659 ring systems
+ 71,000,000 molecules, 8893 ring systems
+ 72,000,000 molecules, 8935 ring systems
+ 73,000,000 molecules, 9004 ring systems
+ 74,000,000 molecules, 9297 ring systems
+ 75,000,000 molecules, 9299 ring systems
+ 76,000,000 molecules, 10005 ring systems
+ 77,000,000 molecules, 10013 ring systems
+ 78,000,000 molecules, 10020 ring systems
+ 79,000,000 molecules, 10022 ring systems
+ 80,000,000 molecules, 10024 ring systems
+ 81,000,000 molecules, 11898 ring systems
+ 82,000,000 molecules, 11922 ring systems
+ 83,000,000 molecules, 11948 ring systems
+ 84,000,000 molecules, 11952 ring systems
+ 85,000,000 molecules, 11953 ring systems
+ 86,000,000 molecules, 11955 ring systems
+ 87,000,000 molecules, 11955 ring systems
+ 88,000,000 molecules, 11957 ring systems
+ 89,000,000 molecules, 11958 ring systems
+ 90,000,000 molecules, 11962 ring systems
+ 91,000,000 molecules, 11963 ring systems
+ 92,000,000 molecules, 11964 ring systems
+ 93,000,000 molecules, 11964 ring systems
+ 94,000,000 molecules, 11964 ring systems
+ 95,000,000 molecules, 11964 ring systems
+ 96,000,000 molecules, 11966 ring systems
+ 97,000,000 molecules, 11967 ring systems
+ 98,000,000 molecules, 11968 ring systems
+ 99,000,000 molecules, 12322 ring systems
+100,000,000 molecules, 12636 ring systems
+101,000,000 molecules, 13220 ring systems
+102,000,000 molecules, 13253 ring systems
+103,000,000 molecules, 13275 ring systems
+104,000,000 molecules, 13288 ring systems
+105,000,000 molecules, 13300 ring systems
+106,000,000 molecules, 13312 ring systems
+107,000,000 molecules, 13326 ring systems
+108,000,000 molecules, 13338 ring systems
+109,000,000 molecules, 13346 ring systems
+110,000,000 molecules, 13356 ring systems
+111,000,000 molecules, 13368 ring systems
+112,000,000 molecules, 13848 ring systems
+113,000,000 molecules, 13854 ring systems
+114,000,000 molecules, 13860 ring systems
+115,000,000 molecules, 14190 ring systems
+116,000,000 molecules, 14207 ring systems
+117,000,000 molecules, 14462 ring systems
+118,000,000 molecules, 14481 ring systems
+119,000,000 molecules, 14481 ring systems
+120,000,000 molecules, 14510 ring systems
+121,000,000 molecules, 14510 ring systems
+122,000,000 molecules, 14510 ring systems
+123,000,000 molecules, 14511 ring systems
+124,000,000 molecules, 14513 ring systems
+125,000,000 molecules, 14513 ring systems
+126,000,000 molecules, 14514 ring systems
+127,000,000 molecules, 14514 ring systems
+128,000,000 molecules, 14661 ring systems
+129,000,000 molecules, 14663 ring systems
+130,000,000 molecules, 14664 ring systems
+131,000,000 molecules, 14665 ring systems
+132,000,000 molecules, 14866 ring systems
+133,000,000 molecules, 14870 ring systems
+134,000,000 molecules, 14878 ring systems
+135,000,000 molecules, 14883 ring systems
+136,000,000 molecules, 14887 ring systems
+137,000,000 molecules, 14890 ring systems
+138,000,000 molecules, 14892 ring systems
+139,000,000 molecules, 14893 ring systems
+140,000,000 molecules, 14896 ring systems
+141,000,000 molecules, 14898 ring systems
+142,000,000 molecules, 14900 ring systems
+143,000,000 molecules, 14901 ring systems
+144,000,000 molecules, 14901 ring systems
+145,000,000 molecules, 14902 ring systems
+146,000,000 molecules, 14906 ring systems
+147,000,000 molecules, 14908 ring systems
+148,000,000 molecules, 14909 ring systems
+149,000,000 molecules, 15056 ring systems
+150,000,000 molecules, 15431 ring systems
+151,000,000 molecules, 15433 ring systems
+152,000,000 molecules, 15436 ring systems
+153,000,000 molecules, 15438 ring systems
+154,000,000 molecules, 15439 ring systems
+155,000,000 molecules, 15441 ring systems
+156,000,000 molecules, 15441 ring systems
+157,000,000 molecules, 15441 ring systems
+158,000,000 molecules, 15442 ring systems
+159,000,000 molecules, 15442 ring systems
+160,000,000 molecules, 15476 ring systems
+161,000,000 molecules, 15583 ring systems
+162,000,000 molecules, 15651 ring systems
+163,000,000 molecules, 15654 ring systems
+164,000,000 molecules, 15655 ring systems
+165,000,000 molecules, 15658 ring systems
+166,000,000 molecules, 15660 ring systems
+167,000,000 molecules, 15706 ring systems
+168,000,000 molecules, 15731 ring systems
+169,000,000 molecules, 15747 ring systems
+170,000,000 molecules, 16100 ring systems
+171,000,000 molecules, 16196 ring systems
+172,000,000 molecules, 17103 ring systems
+173,000,000 molecules, 17156 ring systems
+174,000,000 molecules, 17157 ring systems
+175,000,000 molecules, 17159 ring systems
+176,000,000 molecules, 17159 ring systems
+177,000,000 molecules, 17162 ring systems
+178,000,000 molecules, 17163 ring systems
+179,000,000 molecules, 17163 ring systems
+180,000,000 molecules, 17163 ring systems
+181,000,000 molecules, 17164 ring systems
+182,000,000 molecules, 17164 ring systems
+183,000,000 molecules, 17164 ring systems
+184,000,000 molecules, 17164 ring systems
+185,000,000 molecules, 17164 ring systems
+186,000,000 molecules, 17164 ring systems
+187,000,000 molecules, 17165 ring systems
+188,000,000 molecules, 17221 ring systems
+189,000,000 molecules, 17225 ring systems
+190,000,000 molecules, 17227 ring systems
+191,000,000 molecules, 17230 ring systems
+192,000,000 molecules, 17233 ring systems
+193,000,000 molecules, 17234 ring systems
+194,000,000 molecules, 17235 ring systems
+195,000,000 molecules, 17235 ring systems
+196,000,000 molecules, 17235 ring systems
+197,000,000 molecules, 17235 ring systems
+198,000,000 molecules, 17235 ring systems
+199,000,000 molecules, 17235 ring systems
+200,000,000 molecules, 18093 ring systems
+201,000,000 molecules, 18158 ring systems
+202,000,000 molecules, 18191 ring systems
+203,000,000 molecules, 18465 ring systems
+204,000,000 molecules, 18465 ring systems
+205,000,000 molecules, 18465 ring systems
+206,000,000 molecules, 18465 ring systems
+207,000,000 molecules, 18466 ring systems
+208,000,000 molecules, 18467 ring systems
+209,000,000 molecules, 18485 ring systems
+210,000,000 molecules, 18706 ring systems
+211,000,000 molecules, 18709 ring systems
+212,000,000 molecules, 18710 ring systems
+213,000,000 molecules, 18710 ring systems
+214,000,000 molecules, 18711 ring systems
+215,000,000 molecules, 18715 ring systems
+216,000,000 molecules, 18716 ring systems
+217,000,000 molecules, 18717 ring systems
+218,000,000 molecules, 18718 ring systems
+219,000,000 molecules, 18718 ring systems
+220,000,000 molecules, 18718 ring systems
+221,000,000 molecules, 18719 ring systems
+222,000,000 molecules, 18720 ring systems
+223,000,000 molecules, 18820 ring systems
+224,000,000 molecules, 18823 ring systems
+225,000,000 molecules, 19099 ring systems
+226,000,000 molecules, 19165 ring systems
+227,000,000 molecules, 19165 ring systems
+228,000,000 molecules, 19166 ring systems
+229,000,000 molecules, 19168 ring systems
+230,000,000 molecules, 19169 ring systems
+231,000,000 molecules, 19170 ring systems
+232,000,000 molecules, 19171 ring systems
+233,000,000 molecules, 19171 ring systems
+234,000,000 molecules, 19172 ring systems
+235,000,000 molecules, 19173 ring systems
+236,000,000 molecules, 19174 ring systems
+237,000,000 molecules, 19494 ring systems
+238,000,000 molecules, 19495 ring systems
+239,000,000 molecules, 19496 ring systems
+240,000,000 molecules, 19497 ring systems
+241,000,000 molecules, 19497 ring systems
+242,000,000 molecules, 19497 ring systems
+243,000,000 molecules, 19498 ring systems
+244,000,000 molecules, 19498 ring systems
+245,000,000 molecules, 19499 ring systems
+246,000,000 molecules, 19500 ring systems
+247,000,000 molecules, 19500 ring systems
+248,000,000 molecules, 19500 ring systems
+249,000,000 molecules, 19500 ring systems
+250,000,000 molecules, 19500 ring systems
+251,000,000 molecules, 19500 ring systems
+252,000,000 molecules, 19500 ring systems
+253,000,000 molecules, 19557 ring systems
+254,000,000 molecules, 19571 ring systems
+255,000,000 molecules, 19947 ring systems
+256,000,000 molecules, 19947 ring systems
+257,000,000 molecules, 19947 ring systems
+258,000,000 molecules, 19949 ring systems
+259,000,000 molecules, 19949 ring systems
+260,000,000 molecules, 19950 ring systems
+261,000,000 molecules, 19951 ring systems
+262,000,000 molecules, 19952 ring systems
+263,000,000 molecules, 19952 ring systems
+264,000,000 molecules, 19954 ring systems
+265,000,000 molecules, 19954 ring systems
+266,000,000 molecules, 19954 ring systems
+267,000,000 molecules, 19961 ring systems
+268,000,000 molecules, 20002 ring systems
+269,000,000 molecules, 20002 ring systems
+270,000,000 molecules, 20002 ring systems
+271,000,000 molecules, 20002 ring systems
+272,000,000 molecules, 20003 ring systems
+273,000,000 molecules, 20003 ring systems
+274,000,000 molecules, 20004 ring systems
+275,000,000 molecules, 20004 ring systems
+276,000,000 molecules, 20052 ring systems
+277,000,000 molecules, 20080 ring systems
+278,000,000 molecules, 20093 ring systems
+279,000,000 molecules, 20093 ring systems
+280,000,000 molecules, 20231 ring systems
+281,000,000 molecules, 20234 ring systems
+282,000,000 molecules, 20236 ring systems
+283,000,000 molecules, 20237 ring systems
+284,000,000 molecules, 20237 ring systems
+285,000,000 molecules, 20239 ring systems
+286,000,000 molecules, 20239 ring systems
+287,000,000 molecules, 20239 ring systems
+288,000,000 molecules, 20240 ring systems
+289,000,000 molecules, 20240 ring systems
+290,000,000 molecules, 20240 ring systems
+291,000,000 molecules, 20240 ring systems
+292,000,000 molecules, 20240 ring systems
+293,000,000 molecules, 20257 ring systems
+294,000,000 molecules, 20309 ring systems
+295,000,000 molecules, 20309 ring systems
+296,000,000 molecules, 20310 ring systems
+297,000,000 molecules, 20310 ring systems
+298,000,000 molecules, 20310 ring systems
+299,000,000 molecules, 20310 ring systems
+300,000,000 molecules, 20311 ring systems
+301,000,000 molecules, 20312 ring systems
+302,000,000 molecules, 20312 ring systems
+303,000,000 molecules, 20312 ring systems
+304,000,000 molecules, 20312 ring systems
+305,000,000 molecules, 20498 ring systems
+306,000,000 molecules, 20503 ring systems
+307,000,000 molecules, 20547 ring systems
+308,000,000 molecules, 20549 ring systems
+309,000,000 molecules, 20549 ring systems
+310,000,000 molecules, 20550 ring systems
+311,000,000 molecules, 20552 ring systems
+312,000,000 molecules, 20554 ring systems
+313,000,000 molecules, 20556 ring systems
+314,000,000 molecules, 20557 ring systems
+315,000,000 molecules, 20561 ring systems
+316,000,000 molecules, 20562 ring systems
+317,000,000 molecules, 20562 ring systems
+318,000,000 molecules, 20562 ring systems
+319,000,000 molecules, 20564 ring systems
+320,000,000 molecules, 20564 ring systems
+321,000,000 molecules, 20829 ring systems
+322,000,000 molecules, 20829 ring systems
+323,000,000 molecules, 20829 ring systems
+324,000,000 molecules, 20830 ring systems
+325,000,000 molecules, 20832 ring systems
+326,000,000 molecules, 20833 ring systems
+327,000,000 molecules, 20833 ring systems
+328,000,000 molecules, 20833 ring systems
+329,000,000 molecules, 20833 ring systems
+330,000,000 molecules, 20833 ring systems
+331,000,000 molecules, 20835 ring systems
+332,000,000 molecules, 20835 ring systems
+333,000,000 molecules, 20836 ring systems
+334,000,000 molecules, 20836 ring systems
+335,000,000 molecules, 20837 ring systems
+336,000,000 molecules, 20839 ring systems
+337,000,000 molecules, 20840 ring systems
+338,000,000 molecules, 20840 ring systems
+339,000,000 molecules, 20840 ring systems
+340,000,000 molecules, 20840 ring systems
+341,000,000 molecules, 20840 ring systems
+342,000,000 molecules, 20840 ring systems
+343,000,000 molecules, 20841 ring systems
+344,000,000 molecules, 20841 ring systems
+345,000,000 molecules, 20841 ring systems
+346,000,000 molecules, 20842 ring systems
+347,000,000 molecules, 20842 ring systems
+348,000,000 molecules, 20842 ring systems
+349,000,000 molecules, 20842 ring systems
+350,000,000 molecules, 20843 ring systems
+351,000,000 molecules, 20843 ring systems
+352,000,000 molecules, 20943 ring systems
+353,000,000 molecules, 20944 ring systems
+354,000,000 molecules, 20945 ring systems
+355,000,000 molecules, 20945 ring systems
+356,000,000 molecules, 20956 ring systems
+357,000,000 molecules, 20956 ring systems
+358,000,000 molecules, 20956 ring systems
+359,000,000 molecules, 20956 ring systems
+360,000,000 molecules, 20956 ring systems
+361,000,000 molecules, 20956 ring systems
+362,000,000 molecules, 20956 ring systems
+363,000,000 molecules, 20957 ring systems
+364,000,000 molecules, 20957 ring systems
+365,000,000 molecules, 20958 ring systems
+366,000,000 molecules, 20958 ring systems
+367,000,000 molecules, 20958 ring systems
+368,000,000 molecules, 20958 ring systems
+369,000,000 molecules, 20958 ring systems
+370,000,000 molecules, 20959 ring systems
+371,000,000 molecules, 20959 ring systems
+372,000,000 molecules, 20959 ring systems
+373,000,000 molecules, 20959 ring systems
+374,000,000 molecules, 20961 ring systems
+375,000,000 molecules, 20961 ring systems
+376,000,000 molecules, 20961 ring systems
+377,000,000 molecules, 20961 ring systems
+378,000,000 molecules, 20962 ring systems
+379,000,000 molecules, 20962 ring systems
+380,000,000 molecules, 20962 ring systems
+381,000,000 molecules, 20963 ring systems
+382,000,000 molecules, 20963 ring systems
+383,000,000 molecules, 20963 ring systems
+384,000,000 molecules, 20963 ring systems
+385,000,000 molecules, 20963 ring systems
+386,000,000 molecules, 20963 ring systems
+387,000,000 molecules, 20963 ring systems
+388,000,000 molecules, 20964 ring systems
+389,000,000 molecules, 20964 ring systems
+390,000,000 molecules, 21103 ring systems
+391,000,000 molecules, 21143 ring systems
+392,000,000 molecules, 21144 ring systems
+393,000,000 molecules, 21144 ring systems
+394,000,000 molecules, 21144 ring systems
+395,000,000 molecules, 21166 ring systems
+396,000,000 molecules, 21169 ring systems
+397,000,000 molecules, 21171 ring systems
+398,000,000 molecules, 21172 ring systems
+399,000,000 molecules, 21173 ring systems
+400,000,000 molecules, 21173 ring systems
+401,000,000 molecules, 21223 ring systems
+402,000,000 molecules, 21227 ring systems
+403,000,000 molecules, 21242 ring systems
+404,000,000 molecules, 21251 ring systems
+405,000,000 molecules, 21260 ring systems
+406,000,000 molecules, 21270 ring systems
+407,000,000 molecules, 21275 ring systems
+408,000,000 molecules, 21899 ring systems
+409,000,000 molecules, 22025 ring systems
+410,000,000 molecules, 22025 ring systems
+411,000,000 molecules, 22026 ring systems
+412,000,000 molecules, 22026 ring systems
+413,000,000 molecules, 22026 ring systems
+414,000,000 molecules, 22026 ring systems
+415,000,000 molecules, 22026 ring systems
+416,000,000 molecules, 22026 ring systems
+417,000,000 molecules, 22026 ring systems
+418,000,000 molecules, 22028 ring systems
+419,000,000 molecules, 22083 ring systems
+420,000,000 molecules, 22742 ring systems
+421,000,000 molecules, 22806 ring systems
+422,000,000 molecules, 22871 ring systems
+423,000,000 molecules, 22937 ring systems
+424,000,000 molecules, 23511 ring systems
+425,000,000 molecules, 23558 ring systems
+426,000,000 molecules, 23558 ring systems
+427,000,000 molecules, 23638 ring systems
+428,000,000 molecules, 23638 ring systems
+429,000,000 molecules, 23638 ring systems
+430,000,000 molecules, 23640 ring systems
+431,000,000 molecules, 23640 ring systems
+432,000,000 molecules, 23641 ring systems
+433,000,000 molecules, 23642 ring systems
+434,000,000 molecules, 23642 ring systems
+435,000,000 molecules, 23642 ring systems
+436,000,000 molecules, 23642 ring systems
+437,000,000 molecules, 23642 ring systems
+438,000,000 molecules, 23644 ring systems
+439,000,000 molecules, 23644 ring systems
+440,000,000 molecules, 23644 ring systems
+441,000,000 molecules, 23645 ring systems
+442,000,000 molecules, 23646 ring systems
+443,000,000 molecules, 23646 ring systems
+444,000,000 molecules, 23647 ring systems
+445,000,000 molecules, 23647 ring systems
+446,000,000 molecules, 23648 ring systems
+447,000,000 molecules, 23648 ring systems
+448,000,000 molecules, 23648 ring systems
+449,000,000 molecules, 23648 ring systems
+450,000,000 molecules, 23648 ring systems
+451,000,000 molecules, 23684 ring systems
+452,000,000 molecules, 23831 ring systems
+453,000,000 molecules, 23833 ring systems
+454,000,000 molecules, 23855 ring systems
+455,000,000 molecules, 23857 ring systems
+456,000,000 molecules, 23858 ring systems
+457,000,000 molecules, 23859 ring systems
+458,000,000 molecules, 23860 ring systems
+459,000,000 molecules, 23860 ring systems
+460,000,000 molecules, 23860 ring systems
+461,000,000 molecules, 23861 ring systems
+462,000,000 molecules, 23862 ring systems
+463,000,000 molecules, 23862 ring systems
+464,000,000 molecules, 23862 ring systems
+465,000,000 molecules, 23863 ring systems
+466,000,000 molecules, 23864 ring systems
+467,000,000 molecules, 23865 ring systems
+468,000,000 molecules, 24119 ring systems
+469,000,000 molecules, 24169 ring systems
+470,000,000 molecules, 24190 ring systems
+471,000,000 molecules, 24318 ring systems
+472,000,000 molecules, 24318 ring systems
+473,000,000 molecules, 24319 ring systems
+474,000,000 molecules, 24320 ring systems
+475,000,000 molecules, 24320 ring systems
+476,000,000 molecules, 24321 ring systems
+477,000,000 molecules, 24321 ring systems
+478,000,000 molecules, 24322 ring systems
+479,000,000 molecules, 24322 ring systems
+480,000,000 molecules, 24322 ring systems
+481,000,000 molecules, 24322 ring systems
+482,000,000 molecules, 24323 ring systems
+483,000,000 molecules, 24323 ring systems
+484,000,000 molecules, 24323 ring systems
+485,000,000 molecules, 24323 ring systems
+486,000,000 molecules, 24323 ring systems
+487,000,000 molecules, 24323 ring systems
+488,000,000 molecules, 24359 ring systems
+489,000,000 molecules, 24554 ring systems
+490,000,000 molecules, 24558 ring systems
+491,000,000 molecules, 24561 ring systems
+492,000,000 molecules, 24594 ring systems
+493,000,000 molecules, 25119 ring systems
+494,000,000 molecules, 25152 ring systems
+495,000,000 molecules, 25164 ring systems
+496,000,000 molecules, 25168 ring systems
+497,000,000 molecules, 25174 ring systems
+498,000,000 molecules, 25218 ring systems
+499,000,000 molecules, 25218 ring systems
+500,000,000 molecules, 25218 ring systems
+501,000,000 molecules, 25218 ring systems
+502,000,000 molecules, 25218 ring systems
+503,000,000 molecules, 25218 ring systems
+504,000,000 molecules, 25218 ring systems
+505,000,000 molecules, 25424 ring systems
+506,000,000 molecules, 25425 ring systems
+507,000,000 molecules, 25425 ring systems
+508,000,000 molecules, 25425 ring systems
+509,000,000 molecules, 25425 ring systems
+510,000,000 molecules, 25425 ring systems
+511,000,000 molecules, 25425 ring systems
+512,000,000 molecules, 25430 ring systems
+513,000,000 molecules, 25474 ring systems
+514,000,000 molecules, 25476 ring systems
+515,000,000 molecules, 25477 ring systems
+516,000,000 molecules, 25479 ring systems
+517,000,000 molecules, 25479 ring systems
+518,000,000 molecules, 25533 ring systems
+519,000,000 molecules, 25535 ring systems
+520,000,000 molecules, 25541 ring systems
+521,000,000 molecules, 25632 ring systems
+522,000,000 molecules, 25633 ring systems
+523,000,000 molecules, 25635 ring systems
+524,000,000 molecules, 25636 ring systems
+525,000,000 molecules, 25639 ring systems
+526,000,000 molecules, 25640 ring systems
+527,000,000 molecules, 25642 ring systems
+528,000,000 molecules, 25645 ring systems
+529,000,000 molecules, 25645 ring systems
+530,000,000 molecules, 25646 ring systems
+531,000,000 molecules, 25646 ring systems
+532,000,000 molecules, 25647 ring systems
+533,000,000 molecules, 25648 ring systems
+534,000,000 molecules, 25648 ring systems
+535,000,000 molecules, 25648 ring systems
+536,000,000 molecules, 25648 ring systems
+537,000,000 molecules, 25649 ring systems
+538,000,000 molecules, 25649 ring systems
+539,000,000 molecules, 25649 ring systems
+540,000,000 molecules, 25649 ring systems
+541,000,000 molecules, 25649 ring systems
+542,000,000 molecules, 25649 ring systems
+543,000,000 molecules, 25649 ring systems
+544,000,000 molecules, 25649 ring systems
+545,000,000 molecules, 25697 ring systems
+546,000,000 molecules, 25697 ring systems
+547,000,000 molecules, 25698 ring systems
+548,000,000 molecules, 25698 ring systems
+549,000,000 molecules, 25698 ring systems
+550,000,000 molecules, 25698 ring systems
+551,000,000 molecules, 25698 ring systems
+552,000,000 molecules, 25699 ring systems
+553,000,000 molecules, 25699 ring systems
+554,000,000 molecules, 25713 ring systems
+555,000,000 molecules, 25738 ring systems
+556,000,000 molecules, 25741 ring systems
+557,000,000 molecules, 25741 ring systems
+558,000,000 molecules, 25743 ring systems
+559,000,000 molecules, 25743 ring systems
+560,000,000 molecules, 25900 ring systems
+561,000,000 molecules, 26748 ring systems
+562,000,000 molecules, 26749 ring systems
+563,000,000 molecules, 26751 ring systems
+564,000,000 molecules, 26946 ring systems
+565,000,000 molecules, 26977 ring systems
+566,000,000 molecules, 26977 ring systems
+567,000,000 molecules, 26977 ring systems
+568,000,000 molecules, 26977 ring systems
+569,000,000 molecules, 26977 ring systems
+570,000,000 molecules, 26977 ring systems
+571,000,000 molecules, 26977 ring systems
+572,000,000 molecules, 26977 ring systems
+573,000,000 molecules, 26977 ring systems
+574,000,000 molecules, 26977 ring systems
+575,000,000 molecules, 26979 ring systems
+576,000,000 molecules, 27032 ring systems
+577,000,000 molecules, 27103 ring systems
+578,000,000 molecules, 27121 ring systems
+579,000,000 molecules, 27122 ring systems
+580,000,000 molecules, 27122 ring systems
+581,000,000 molecules, 27122 ring systems
+582,000,000 molecules, 27122 ring systems
+583,000,000 molecules, 27122 ring systems
+584,000,000 molecules, 27122 ring systems
+585,000,000 molecules, 27122 ring systems
+586,000,000 molecules, 27122 ring systems
+587,000,000 molecules, 27122 ring systems
+588,000,000 molecules, 27177 ring systems
+589,000,000 molecules, 27206 ring systems
+590,000,000 molecules, 27207 ring systems
+591,000,000 molecules, 27208 ring systems
+592,000,000 molecules, 27208 ring systems
+593,000,000 molecules, 27208 ring systems
+594,000,000 molecules, 27208 ring systems
+595,000,000 molecules, 27292 ring systems
+596,000,000 molecules, 27299 ring systems
+597,000,000 molecules, 27302 ring systems
+598,000,000 molecules, 27302 ring systems
+599,000,000 molecules, 27303 ring systems
+600,000,000 molecules, 27303 ring systems
+601,000,000 molecules, 27303 ring systems
+602,000,000 molecules, 27303 ring systems
+603,000,000 molecules, 27304 ring systems
+604,000,000 molecules, 27402 ring systems
+605,000,000 molecules, 27411 ring systems
+606,000,000 molecules, 27414 ring systems
+607,000,000 molecules, 27898 ring systems
+608,000,000 molecules, 27932 ring systems
+609,000,000 molecules, 27939 ring systems
+610,000,000 molecules, 27943 ring systems
+611,000,000 molecules, 27953 ring systems
+612,000,000 molecules, 27961 ring systems
+613,000,000 molecules, 27963 ring systems
+614,000,000 molecules, 27965 ring systems
+615,000,000 molecules, 27968 ring systems
+616,000,000 molecules, 27973 ring systems
+617,000,000 molecules, 27976 ring systems
+618,000,000 molecules, 27983 ring systems
+619,000,000 molecules, 27987 ring systems
+620,000,000 molecules, 27991 ring systems
+621,000,000 molecules, 27995 ring systems
+622,000,000 molecules, 27998 ring systems
+623,000,000 molecules, 28000 ring systems
+624,000,000 molecules, 28006 ring systems
+625,000,000 molecules, 28010 ring systems
+626,000,000 molecules, 28013 ring systems
+627,000,000 molecules, 28211 ring systems
+628,000,000 molecules, 28266 ring systems
+629,000,000 molecules, 28267 ring systems
+630,000,000 molecules, 28267 ring systems
+631,000,000 molecules, 28267 ring systems
+632,000,000 molecules, 28267 ring systems
+633,000,000 molecules, 28267 ring systems
+634,000,000 molecules, 28267 ring systems
+635,000,000 molecules, 28267 ring systems
+636,000,000 molecules, 28459 ring systems
+637,000,000 molecules, 28540 ring systems
+638,000,000 molecules, 28541 ring systems
+639,000,000 molecules, 28541 ring systems
+640,000,000 molecules, 28541 ring systems
+641,000,000 molecules, 28541 ring systems
+642,000,000 molecules, 28542 ring systems
+643,000,000 molecules, 28542 ring systems
+644,000,000 molecules, 28542 ring systems
+645,000,000 molecules, 28542 ring systems
+646,000,000 molecules, 28542 ring systems
+647,000,000 molecules, 28543 ring systems
+648,000,000 molecules, 28543 ring systems
+649,000,000 molecules, 28543 ring systems
+650,000,000 molecules, 28544 ring systems
+651,000,000 molecules, 28547 ring systems
+652,000,000 molecules, 28547 ring systems
+653,000,000 molecules, 28547 ring systems
+654,000,000 molecules, 28548 ring systems
+655,000,000 molecules, 28548 ring systems
+656,000,000 molecules, 28548 ring systems
+657,000,000 molecules, 28549 ring systems
+658,000,000 molecules, 28549 ring systems
+659,000,000 molecules, 28550 ring systems
+660,000,000 molecules, 28550 ring systems
+661,000,000 molecules, 28550 ring systems
+662,000,000 molecules, 28550 ring systems
+663,000,000 molecules, 28550 ring systems
+664,000,000 molecules, 28551 ring systems
+665,000,000 molecules, 28551 ring systems
+666,000,000 molecules, 28553 ring systems
+667,000,000 molecules, 28586 ring systems
+668,000,000 molecules, 28588 ring systems
+669,000,000 molecules, 28612 ring systems
+670,000,000 molecules, 28619 ring systems
+671,000,000 molecules, 28626 ring systems
+672,000,000 molecules, 28633 ring systems
+673,000,000 molecules, 28639 ring systems
+674,000,000 molecules, 28641 ring systems
+675,000,000 molecules, 28644 ring systems
+676,000,000 molecules, 28647 ring systems
+677,000,000 molecules, 28649 ring systems
+678,000,000 molecules, 29183 ring systems
+679,000,000 molecules, 29191 ring systems
+680,000,000 molecules, 29647 ring systems
+681,000,000 molecules, 29768 ring systems
+682,000,000 molecules, 29807 ring systems
+683,000,000 molecules, 29809 ring systems
+684,000,000 molecules, 29810 ring systems
+685,000,000 molecules, 29810 ring systems
+686,000,000 molecules, 29810 ring systems
+687,000,000 molecules, 29810 ring systems
+688,000,000 molecules, 29810 ring systems
+689,000,000 molecules, 29810 ring systems
+690,000,000 molecules, 29810 ring systems
+691,000,000 molecules, 29914 ring systems
+692,000,000 molecules, 29914 ring systems
+693,000,000 molecules, 29915 ring systems
+694,000,000 molecules, 29916 ring systems
+695,000,000 molecules, 29918 ring systems
+696,000,000 molecules, 29918 ring systems
+697,000,000 molecules, 29918 ring systems
+698,000,000 molecules, 29918 ring systems
+699,000,000 molecules, 29919 ring systems
+700,000,000 molecules, 29951 ring systems
+701,000,000 molecules, 30042 ring systems
+702,000,000 molecules, 30086 ring systems
+703,000,000 molecules, 30086 ring systems
+704,000,000 molecules, 30086 ring systems
+705,000,000 molecules, 30087 ring systems
+706,000,000 molecules, 30087 ring systems
+707,000,000 molecules, 30087 ring systems
+708,000,000 molecules, 30087 ring systems
+709,000,000 molecules, 30087 ring systems
+710,000,000 molecules, 30087 ring systems
+711,000,000 molecules, 30095 ring systems
+712,000,000 molecules, 30361 ring systems
+713,000,000 molecules, 30458 ring systems
+714,000,000 molecules, 30459 ring systems
+715,000,000 molecules, 30460 ring systems
+716,000,000 molecules, 30463 ring systems
+717,000,000 molecules, 30464 ring systems
+718,000,000 molecules, 30464 ring systems
+719,000,000 molecules, 30464 ring systems
+720,000,000 molecules, 30464 ring systems
+721,000,000 molecules, 30464 ring systems
+722,000,000 molecules, 30465 ring systems
+723,000,000 molecules, 30467 ring systems
+724,000,000 molecules, 30467 ring systems
+725,000,000 molecules, 30467 ring systems
+726,000,000 molecules, 30467 ring systems
+727,000,000 molecules, 30467 ring systems
+728,000,000 molecules, 30467 ring systems
+729,000,000 molecules, 30481 ring systems
+730,000,000 molecules, 30481 ring systems
+731,000,000 molecules, 30481 ring systems
+732,000,000 molecules, 30481 ring systems
+733,000,000 molecules, 30481 ring systems
+734,000,000 molecules, 30482 ring systems
+735,000,000 molecules, 30482 ring systems
+736,000,000 molecules, 30482 ring systems
+737,000,000 molecules, 30482 ring systems
+738,000,000 molecules, 30482 ring systems
+739,000,000 molecules, 30482 ring systems
+740,000,000 molecules, 30482 ring systems
+741,000,000 molecules, 30482 ring systems
+742,000,000 molecules, 30482 ring systems
+743,000,000 molecules, 30482 ring systems
+744,000,000 molecules, 30482 ring systems
+745,000,000 molecules, 30483 ring systems
+746,000,000 molecules, 30483 ring systems
+747,000,000 molecules, 30483 ring systems
+748,000,000 molecules, 30483 ring systems
+749,000,000 molecules, 30483 ring systems
+750,000,000 molecules, 30483 ring systems
+751,000,000 molecules, 30483 ring systems
+752,000,000 molecules, 30484 ring systems
+753,000,000 molecules, 30484 ring systems
+754,000,000 molecules, 30484 ring systems
+755,000,000 molecules, 30484 ring systems
+756,000,000 molecules, 30484 ring systems
+757,000,000 molecules, 30484 ring systems
+758,000,000 molecules, 30484 ring systems
+759,000,000 molecules, 30490 ring systems
+760,000,000 molecules, 30490 ring systems
+761,000,000 molecules, 30491 ring systems
+762,000,000 molecules, 30610 ring systems
+763,000,000 molecules, 30611 ring systems
+764,000,000 molecules, 30612 ring systems
+765,000,000 molecules, 30612 ring systems
+766,000,000 molecules, 30612 ring systems
+767,000,000 molecules, 30612 ring systems
+768,000,000 molecules, 30612 ring systems
+769,000,000 molecules, 30612 ring systems
+770,000,000 molecules, 30612 ring systems
+771,000,000 molecules, 30612 ring systems
+772,000,000 molecules, 30612 ring systems
+773,000,000 molecules, 30612 ring systems
+774,000,000 molecules, 30612 ring systems
+775,000,000 molecules, 30613 ring systems
+776,000,000 molecules, 30613 ring systems
+777,000,000 molecules, 30613 ring systems
+778,000,000 molecules, 30613 ring systems
+779,000,000 molecules, 30613 ring systems
+780,000,000 molecules, 30613 ring systems
+781,000,000 molecules, 30613 ring systems
+782,000,000 molecules, 30613 ring systems
+783,000,000 molecules, 30613 ring systems
+784,000,000 molecules, 30613 ring systems
+785,000,000 molecules, 30614 ring systems
+786,000,000 molecules, 30614 ring systems
+787,000,000 molecules, 30614 ring systems
+788,000,000 molecules, 30614 ring systems
+789,000,000 molecules, 30614 ring systems
+790,000,000 molecules, 30614 ring systems
+791,000,000 molecules, 30614 ring systems
+792,000,000 molecules, 30615 ring systems
+793,000,000 molecules, 30615 ring systems
+794,000,000 molecules, 30615 ring systems
+795,000,000 molecules, 30615 ring systems
+796,000,000 molecules, 30615 ring systems
+797,000,000 molecules, 30615 ring systems
+798,000,000 molecules, 30615 ring systems
+799,000,000 molecules, 30615 ring systems
+800,000,000 molecules, 30616 ring systems
+801,000,000 molecules, 30616 ring systems
+802,000,000 molecules, 30616 ring systems
+803,000,000 molecules, 30616 ring systems
+804,000,000 molecules, 30618 ring systems
+805,000,000 molecules, 30618 ring systems
+806,000,000 molecules, 30618 ring systems
+807,000,000 molecules, 30618 ring systems
+808,000,000 molecules, 30618 ring systems
+809,000,000 molecules, 30618 ring systems
+810,000,000 molecules, 30618 ring systems
+811,000,000 molecules, 30618 ring systems
+812,000,000 molecules, 30618 ring systems
+813,000,000 molecules, 30618 ring systems
+814,000,000 molecules, 30618 ring systems
+815,000,000 molecules, 30619 ring systems
+816,000,000 molecules, 30619 ring systems
+817,000,000 molecules, 30619 ring systems
+818,000,000 molecules, 30619 ring systems
+819,000,000 molecules, 30619 ring systems
+820,000,000 molecules, 30619 ring systems
+821,000,000 molecules, 30620 ring systems
+822,000,000 molecules, 30620 ring systems
+823,000,000 molecules, 30621 ring systems
+824,000,000 molecules, 30621 ring systems
+825,000,000 molecules, 30621 ring systems
+826,000,000 molecules, 30622 ring systems
+827,000,000 molecules, 30713 ring systems
+828,000,000 molecules, 31033 ring systems
+829,000,000 molecules, 31039 ring systems
+830,000,000 molecules, 31040 ring systems
+831,000,000 molecules, 31071 ring systems
+832,000,000 molecules, 31503 ring systems
+833,000,000 molecules, 31564 ring systems
+834,000,000 molecules, 31589 ring systems
+835,000,000 molecules, 31589 ring systems
+836,000,000 molecules, 31589 ring systems
+837,000,000 molecules, 31589 ring systems
+838,000,000 molecules, 31589 ring systems
+839,000,000 molecules, 31589 ring systems
+840,000,000 molecules, 32718 ring systems
+841,000,000 molecules, 33167 ring systems
+842,000,000 molecules, 33192 ring systems
+843,000,000 molecules, 33192 ring systems
+844,000,000 molecules, 33193 ring systems
+845,000,000 molecules, 33193 ring systems
+846,000,000 molecules, 33193 ring systems
+847,000,000 molecules, 33195 ring systems
+848,000,000 molecules, 33195 ring systems
+849,000,000 molecules, 33195 ring systems
+850,000,000 molecules, 33199 ring systems
+851,000,000 molecules, 33201 ring systems
+852,000,000 molecules, 33204 ring systems
+853,000,000 molecules, 33205 ring systems
+854,000,000 molecules, 33207 ring systems
+855,000,000 molecules, 33209 ring systems
+856,000,000 molecules, 33225 ring systems
+857,000,000 molecules, 34619 ring systems
+858,000,000 molecules, 35631 ring systems
+859,000,000 molecules, 35658 ring systems
+860,000,000 molecules, 35658 ring systems
+861,000,000 molecules, 35658 ring systems
+862,000,000 molecules, 35658 ring systems
+863,000,000 molecules, 35658 ring systems
+864,000,000 molecules, 35658 ring systems
+865,000,000 molecules, 35658 ring systems
+866,000,000 molecules, 35722 ring systems
+867,000,000 molecules, 35723 ring systems
+868,000,000 molecules, 35723 ring systems
+869,000,000 molecules, 35723 ring systems
+870,000,000 molecules, 35723 ring systems
+871,000,000 molecules, 35723 ring systems
+872,000,000 molecules, 35725 ring systems
+35906 distinct ring systems; 8023 ring system instances could not be sanitized
